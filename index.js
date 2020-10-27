@@ -4,6 +4,7 @@ function sum(a,b) {
 }
 
 function sub(a,b) {
+  console.log(a,b)
   return b - a
 }
 
